@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "home": "Home",
+    "people": "People",
+    "capabilities": "Capabilities",
+    "insights": "Insights",
+    "joinUs": "Join Us",
+    "contact": "Contact",
+    "scheduleConsultation": "Schedule Consultation",
+    "subtitle": "Kiamba Mbithi & Co. Advocates"
+  },
+  "hero": {
+    "title": "Adansonia",
+    "subtitle": "Kiamba Mbithi & Co.",
+    "description": "Advocates committed to excellence and justice. With decades of experience, we deliver unparalleled legal counsel.",
+    "freeConsultation": "Free Consultation",
+    "exploreServices": "Explore Services"
+  },
+  "stats": {
+    "yearsExperience": "Years Experience",
+    "casesWon": "Cases Won",
+    "expertLawyers": "Expert Lawyers",
+    "clientSatisfaction": "Client Satisfaction"
+  },
+  "whyChooseUs": {
+    "title": "Why",
+    "brand": "Adansonia",
+    "description": "With decades of combined experience, we offer unparalleled legal counsel across East Africa and beyond. Our commitment to excellence is matched only by our dedication to our clients.",
+    "items": [
+      "Award-winning legal team",
+      "Personalized client attention",
+      "Strategic, forward-thinking solutions",
+      "Recognized leaders in corporate law",
+      "Multilingual support for international clients"
+    ]
+  },
+  "capabilities": {
+    "corePracticeAreas": "Core Practice Areas",
+    "practiceAreasSubtitle": "Specialized legal excellence across corporate, litigation, and advisory services.",
+    "learnMore": "Learn More",
+    "viewAll": "View All Practice Areas",
+    "title": "Practice Capabilities",
+    "description": "We offer expert legal services across a wide range of disciplines."
+  },
+  "people": {
+    "title": "Our People",
+    "description": "Meet the advocates dedicated to your success.",
+    "readMore": "Read more",
+    "showLess": "Show less",
+    "email": "Email"
+  },
+  "insights": {
+    "title": "Insights",
+    "description": "Latest news and legal updates from our team.",
+    "searchPlaceholder": "Search articles...",
+    "category": "Category",
+    "tag": "Tag",
+    "activeFilters": "Active filters:",
+    "clearAll": "Clear all",
+    "showing": "Showing {{count}} of {{total}} articles",
+    "noArticles": "No articles match your filters.",
+    "readMore": "Read more",
+    "showLess": "Show less"
+  },
+  "joinUs": {
+    "whoWeAre": "Who We Are",
+    "whatWeDo": "What We Do",
+    "ourStrength": "Our Strength",
+    "aboutLead": "About the Lead: Victor Kiamba",
+    "contactDetails": "Contact Details",
+    "readyToWork": "Ready to work with us?",
+    "contactTeam": "Contact Our Team"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "We're here to help. Send us a message and we'll respond promptly.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Thank you! Your message has been sent.",
+    "error": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "brandDescription": "A premier joint venture dedicated to excellence in legal consulting, property management, and corporate strategy. Established in 2013 to provide adaptive solutions for a global clientele.",
+    "navigation": "Navigation",
+    "headOffice": "Head Office",
+    "address": "IHIT Centre, Dennis Pritt Road, Nairobi\nStarwood Apartments, Argwings Kodhek Road\nP.O. Box 47290-00100, Nairobi",
+    "email": "consult@adansonia.info",
+    "phone": "0748 364 601",
+    "copyright": "© {{year}} Kiamba Mbithi & Company Advocates.",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "newsletter": {
+    "subscribe": "Subscribe to our newsletter",
+    "placeholder": "Your email",
+    "thanks": "Thank you for subscribing!"
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Hear what our clients say about working with us."
+  },
+  "cta": {
+    "title": "Ready to resolve your legal matters?",
+    "subtitle": "Schedule a confidential consultation today.",
+    "button": "Contact Us Now"
+  },
+  "floating": {
+    "title": "How can we help?",
+    "subtitle": "Choose a quick action below",
+    "meetAdvocates": "Meet our Advocates",
+    "exploreCapabilities": "Explore Capabilities",
+    "readInsights": "Read Insights",
+    "contactUs": "Contact Us",
+    "language": "Language",
+    "footer": "Type “hello” or click a command"
+  },
+  "languageSwitcher": {
+    "en": "EN",
+    "sw": "SW",
+    "fr": "FR"
+  },
+  "search": {
+    "placeholder": "Search..."
+  },
+  "filters": {
+    "all": "All"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: {{date}}",
+    "sections": {
+      "introduction": {
+        "title": "Introduction",
+        "content": "Kiamba Mbithi & Company Advocates is committed to protecting the privacy and confidentiality of our clients and website visitors. This Privacy Policy explains how we collect, use, and safeguard your personal information."
+      },
+      "infoWeCollect": {
+        "title": "Information We Collect",
+        "intro": "We may collect the following types of information:",
+        "items": [
+          "Contact information (name, email address, phone number)",
+          "Professional information (company, position, area of interest)",
+          "Communication records and correspondence",
+          "Website usage data and analytics"
+        ]
+      },
+      "howWeUse": {
+        "title": "How We Use Your Information",
+        "intro": "We use your information to:",
+        "items": [
+          "Provide legal services and respond to inquiries",
+          "Communicate about our services and updates",
+          "Improve our website and services",
+          "Comply with legal and regulatory requirements"
+        ]
+      },
+      "dataProtection": {
+        "title": "Data Protection",
+        "content": "We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. All client communications and information are treated with strict confidentiality in accordance with professional legal ethics."
+      },
+      "attorneyPrivilege": {
+        "title": "Attorney-Client Privilege",
+        "content": "Communications with our firm may be protected by attorney-client privilege. We maintain strict confidentiality of all client information and communications in accordance with our professional obligations and Kenyan law."
+      },
+      "infoSharing": {
+        "title": "Information Sharing",
+        "intro": "We do not sell, trade, or rent your personal information to third parties. We may share information only when:",
+        "items": [
+          "Required by law or legal process",
+          "Necessary to provide legal services you have requested",
+          "You have given explicit consent"
+        ]
+      },
+      "cookies": {
+        "title": "Cookies and Tracking",
+        "content": "Our website may use cookies and similar technologies to enhance user experience and analyze website traffic. You can control cookie settings through your browser preferences."
+      },
+      "yourRights": {
+        "title": "Your Rights",
+        "intro": "You have the right to:",
+        "items": [
+          "Access your personal information",
+          "Correct inaccurate information",
+          "Request deletion of your information",
+          "Opt-out of marketing communications"
+        ]
+      },
+      "thirdParty": {
+        "title": "Third-Party Links",
+        "content": "Our website may contain links to third-party websites. We are not responsible for the privacy practices of these external sites and encourage you to review their privacy policies."
+      },
+      "changes": {
+        "title": "Changes to This Policy",
+        "content": "We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "content": "If you have questions about this Privacy Policy or our data practices, please contact us:"
+      }
+    },
+    "contactDetails": {
+      "email": "consult@adansonia.info",
+      "phone": "0748 364 601",
+      "address": "IHIT Centre, Dennis Pritt Road, Nairobi"
+    }
+  }
+}

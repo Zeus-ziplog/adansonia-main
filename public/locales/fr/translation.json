@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "people": "Équipe",
+    "capabilities": "Compétences",
+    "insights": "Articles",
+    "joinUs": "Rejoignez-nous",
+    "contact": "Contact",
+    "scheduleConsultation": "Planifier une Consultation",
+    "subtitle": "Kiamba Mbithi & Co. Avocats"
+  },
+  "hero": {
+    "title": "Adansonia",
+    "subtitle": "Kiamba Mbithi & Co.",
+    "description": "Des avocats engagés pour l'excellence et la justice. Avec des décennies d'expérience, nous offrons des conseils juridiques inégalés.",
+    "freeConsultation": "Consultation Gratuite",
+    "exploreServices": "Explorer nos Services"
+  },
+  "stats": {
+    "yearsExperience": "Années d'Expérience",
+    "casesWon": "Affaires Gagnées",
+    "expertLawyers": "Avocats Experts",
+    "clientSatisfaction": "Satisfaction Client"
+  },
+  "whyChooseUs": {
+    "title": "Pourquoi",
+    "brand": "Adansonia",
+    "description": "Avec des décennies d'expérience combinée, nous offrons des conseils juridiques inégalés en Afrique de l'Est et au-delà. Notre engagement envers l'excellence n'a d'égal que notre dévouement à nos clients.",
+    "items": [
+      "Équipe juridique primée",
+      "Attention personnalisée aux clients",
+      "Solutions stratégiques et avant-gardistes",
+      "Leaders reconnus en droit des affaires",
+      "Support multilingue pour les clients internationaux"
+    ]
+  },
+  "capabilities": {
+    "corePracticeAreas": "Domaines d'Expertise Principaux",
+    "practiceAreasSubtitle": "Excellence juridique spécialisée dans les services d'entreprise, de litige et de conseil.",
+    "learnMore": "En savoir plus",
+    "viewAll": "Voir tous les domaines",
+    "title": "Compétences",
+    "description": "Nous offrons des services juridiques experts dans un large éventail de disciplines."
+  },
+  "people": {
+    "title": "Notre Équipe",
+    "description": "Rencontrez les avocats dédiés à votre succès.",
+    "readMore": "Lire la suite",
+    "showLess": "Afficher moins",
+    "email": "Email"
+  },
+  "insights": {
+    "title": "Articles",
+    "description": "Dernières nouvelles et mises à jour juridiques de notre équipe.",
+    "searchPlaceholder": "Rechercher des articles...",
+    "category": "Catégorie",
+    "tag": "Étiquette",
+    "activeFilters": "Filtres actifs :",
+    "clearAll": "Tout effacer",
+    "showing": "Affichage de {{count}} sur {{total}} articles",
+    "noArticles": "Aucun article ne correspond à vos filtres.",
+    "readMore": "Lire la suite",
+    "showLess": "Afficher moins"
+  },
+  "joinUs": {
+    "whoWeAre": "Qui sommes-nous",
+    "whatWeDo": "Ce que nous faisons",
+    "ourStrength": "Notre Force",
+    "aboutLead": "À propos du leader : Victor Kiamba",
+    "contactDetails": "Coordonnées",
+    "readyToWork": "Prêt à travailler avec nous ?",
+    "contactTeam": "Contactez notre équipe"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Nous sommes là pour vous aider. Envoyez-nous un message et nous vous répondrons rapidement.",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Merci ! Votre message a été envoyé.",
+    "error": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "footer": {
+    "brandDescription": "Une coentreprise de premier plan dédiée à l'excellence en conseil juridique, gestion immobilière et stratégie d'entreprise. Établie en 2013 pour fournir des solutions adaptatives à une clientèle mondiale.",
+    "navigation": "Navigation",
+    "headOffice": "Siège social",
+    "address": "IHIT Centre, Dennis Pritt Road, Nairobi\nStarwood Apartments, Argwings Kodhek Road\nP.O. Box 47290-00100, Nairobi",
+    "email": "consult@adansonia.info",
+    "phone": "0748 364 601",
+    "copyright": "© {{year}} Kiamba Mbithi & Company Advocates.",
+    "privacyPolicy": "Politique de confidentialité"
+  },
+  "newsletter": {
+    "subscribe": "Abonnez-vous à notre newsletter",
+    "placeholder": "Votre email",
+    "thanks": "Merci de vous être abonné !"
+  },
+  "testimonials": {
+    "title": "Témoignages Clients",
+    "subtitle": "Découvrez ce que nos clients disent de leur collaboration avec nous."
+  },
+  "cta": {
+    "title": "Prêt à résoudre vos problèmes juridiques ?",
+    "subtitle": "Planifiez une consultation confidentielle dès aujourd'hui.",
+    "button": "Contactez-nous maintenant"
+  },
+  "floating": {
+    "title": "Comment pouvons-nous vous aider ?",
+    "subtitle": "Choisissez une action rapide ci-dessous",
+    "meetAdvocates": "Rencontrer nos avocats",
+    "exploreCapabilities": "Explorer les compétences",
+    "readInsights": "Lire les articles",
+    "contactUs": "Nous contacter",
+    "language": "Langue",
+    "footer": "Tapez “hello” ou cliquez sur une commande"
+  },
+  "languageSwitcher": {
+    "en": "EN",
+    "sw": "SW",
+    "fr": "FR"
+  },
+  "search": {
+    "placeholder": "Rechercher..."
+  },
+  "filters": {
+    "all": "Tous"
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : {{date}}",
+    "sections": {
+      "introduction": {
+        "title": "Introduction",
+        "content": "Kiamba Mbithi & Company Advocates s'engage à protéger la vie privée et la confidentialité de ses clients et visiteurs du site web. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations personnelles."
+      },
+      "infoWeCollect": {
+        "title": "Informations que nous collectons",
+        "intro": "Nous pouvons collecter les types d'informations suivants :",
+        "items": [
+          "Coordonnées (nom, adresse e-mail, numéro de téléphone)",
+          "Informations professionnelles (entreprise, poste, domaine d'intérêt)",
+          "Enregistrements de communication et correspondance",
+          "Données d'utilisation du site web et analytiques"
+        ]
+      },
+      "howWeUse": {
+        "title": "Comment nous utilisons vos informations",
+        "intro": "Nous utilisons vos informations pour :",
+        "items": [
+          "Fournir des services juridiques et répondre aux demandes",
+          "Communiquer sur nos services et mises à jour",
+          "Améliorer notre site web et nos services",
+          "Respecter les exigences légales et réglementaires"
+        ]
+      },
+      "dataProtection": {
+        "title": "Protection des données",
+        "content": "Nous mettons en œuvre des mesures techniques et organisationnelles appropriées pour protéger vos informations personnelles contre tout accès, modification, divulgation ou destruction non autorisés. Toutes les communications et informations des clients sont traitées avec une stricte confidentialité conformément à l'éthique juridique professionnelle."
+      },
+      "attorneyPrivilege": {
+        "title": "Confidentialité avocat-client",
+        "content": "Les communications avec notre cabinet peuvent être protégées par le secret professionnel de l'avocat. Nous maintenons une stricte confidentialité de toutes les informations et communications des clients conformément à nos obligations professionnelles et à la loi kenyane."
+      },
+      "infoSharing": {
+        "title": "Partage d'informations",
+        "intro": "Nous ne vendons, n'échangeons ni ne louons vos informations personnelles à des tiers. Nous ne partageons des informations que lorsque :",
+        "items": [
+          "La loi ou une procédure judiciaire l'exige",
+          "Nécessaire pour fournir les services juridiques que vous avez demandés",
+          "Vous avez donné votre consentement explicite"
+        ]
+      },
+      "cookies": {
+        "title": "Cookies et suivi",
+        "content": "Notre site web peut utiliser des cookies et des technologies similaires pour améliorer l'expérience utilisateur et analyser le trafic du site. Vous pouvez contrôler les paramètres des cookies via les préférences de votre navigateur."
+      },
+      "yourRights": {
+        "title": "Vos droits",
+        "intro": "Vous avez le droit de :",
+        "items": [
+          "Accéder à vos informations personnelles",
+          "Corriger des informations inexactes",
+          "Demander la suppression de vos informations",
+          "Vous désabonner des communications marketing"
+        ]
+      },
+      "thirdParty": {
+        "title": "Liens tiers",
+        "content": "Notre site web peut contenir des liens vers des sites web tiers. Nous ne sommes pas responsables des pratiques de confidentialité de ces sites externes et vous encourageons à consulter leurs politiques de confidentialité."
+      },
+      "changes": {
+        "title": "Modifications de cette politique",
+        "content": "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre. Toute modification sera publiée sur cette page avec une date de révision mise à jour."
+      },
+      "contact": {
+        "title": "Contactez-nous",
+        "content": "Si vous avez des questions sur cette politique de confidentialité ou nos pratiques en matière de données, veuillez nous contacter :"
+      }
+    },
+    "contactDetails": {
+      "email": "consult@adansonia.info",
+      "phone": "0748 364 601",
+      "address": "IHIT Centre, Dennis Pritt Road, Nairobi"
+    }
+  }
+}

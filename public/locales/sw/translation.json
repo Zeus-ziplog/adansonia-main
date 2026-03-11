@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "people": "Watu",
+    "capabilities": "Uwezo",
+    "insights": "Maarifa",
+    "joinUs": "Jiunge Nasi",
+    "contact": "Wasiliana",
+    "scheduleConsultation": "Panga Mashauriano",
+    "subtitle": "Kiamba Mbithi & Co. Mawakili"
+  },
+  "hero": {
+    "title": "Adansonia",
+    "subtitle": "Kiamba Mbithi & Co.",
+    "description": "Mawakili wanaojitolea kwa ubora na haki. Kwa uzoefu wa miongo kadhaa, tunatoa ushauri wa kisheria usio na kifani.",
+    "freeConsultation": "Mashauriano Bure",
+    "exploreServices": "Angalia Huduma"
+  },
+  "stats": {
+    "yearsExperience": "Miaka ya Uzoefu",
+    "casesWon": "Kesi Zilizoshindwa",
+    "expertLawyers": "Mawakili Wataalamu",
+    "clientSatisfaction": "Kuridhika kwa Wateja"
+  },
+  "whyChooseUs": {
+    "title": "Kwa nini",
+    "brand": "Adansonia",
+    "description": "Kwa uzoefu wa miongo kadhaa pamoja, tunatoa ushauri wa kisheria usio na kifani Afrika Mashariki na kwingineko. Kujitolea kwetu kwa ubora kunalingana tu na kujitolea kwetu kwa wateja wetu.",
+    "items": [
+      "Timu ya kisheria iliyoshinda tuzo",
+      "Huduma ya kibinafsi kwa wateja",
+      "Suluhisho za kimkakati na za mbele",
+      "Viongozi wanaotambulika katika sheria za biashara",
+      "Msaada wa lugha nyingi kwa wateja wa kimataifa"
+    ]
+  },
+  "capabilities": {
+    "corePracticeAreas": "Maeneo ya Msingi ya Uwezo",
+    "practiceAreasSubtitle": "Ubora wa kisheria uliobobea katika huduma za ushirika, madai, na ushauri.",
+    "learnMore": "Jifunze Zaidi",
+    "viewAll": "Tazama Maeneo Yote ya Uwezo",
+    "title": "Uwezo wa Kufanya Kazi",
+    "description": "Tunatoa huduma za kisheria za kitaalam katika anuwai ya taaluma."
+  },
+  "people": {
+    "title": "Watu Wetu",
+    "description": "Kutana na mawakili waliojitolea kwa mafanikio yako.",
+    "readMore": "Soma zaidi",
+    "showLess": "Onyesha machache",
+    "email": "Barua pepe"
+  },
+  "insights": {
+    "title": "Maarifa",
+    "description": "Habari za hivi punde na masasisho ya kisheria kutoka kwa timu yetu.",
+    "searchPlaceholder": "Tafuta makala...",
+    "category": "Kategoria",
+    "tag": "Lebo",
+    "activeFilters": "Vichujio amilifu:",
+    "clearAll": "Futa yote",
+    "showing": "Inaonyesha {{count}} kati ya {{total}} makala",
+    "noArticles": "Hakuna makala zinazolingana na vichujio vyako.",
+    "readMore": "Soma zaidi",
+    "showLess": "Onyesha machache"
+  },
+  "joinUs": {
+    "whoWeAre": "Sisi ni Nani",
+    "whatWeDo": "Tunachofanya",
+    "ourStrength": "Nguvu Yetu",
+    "aboutLead": "Kuhusu Kiongozi: Victor Kiamba",
+    "contactDetails": "Maelezo ya Mawasiliano",
+    "readyToWork": "Uko tayari kufanya kazi nasi?",
+    "contactTeam": "Wasiliana na Timu Yetu"
+  },
+  "contact": {
+    "title": "Wasiliana Nasi",
+    "description": "Tupo hapa kusaidia. Tutumie ujumbe na tutajibu haraka.",
+    "name": "Jina",
+    "email": "Barua pepe",
+    "message": "Ujumbe",
+    "send": "Tuma Ujumbe",
+    "sending": "Inatuma...",
+    "success": "Asante! Ujumbe wako umetumwa.",
+    "error": "Kuna hitilafu imetokea. Tafadhali jaribu tena."
+  },
+  "footer": {
+    "brandDescription": "Ubia wa kwanza unaojitolea kwa ubora katika ushauri wa kisheria, usimamizi wa mali, na mkakati wa ushirika. Ilianzishwa mwaka 2013 ili kutoa suluhisho za kubadilika kwa wateja wa kimataifa.",
+    "navigation": "Urambazaji",
+    "headOffice": "Ofisi Kuu",
+    "address": "IHIT Centre, Dennis Pritt Road, Nairobi\nStarwood Apartments, Argwings Kodhek Road\nP.O. Box 47290-00100, Nairobi",
+    "email": "consult@adansonia.info",
+    "phone": "0748 364 601",
+    "copyright": "© {{year}} Kiamba Mbithi & Company Advocates.",
+    "privacyPolicy": "Sera ya Faragha"
+  },
+  "newsletter": {
+    "subscribe": "Jisajili kwa jarida letu",
+    "placeholder": "Barua pepe yako",
+    "thanks": "Asante kwa kujisajili!"
+  },
+  "testimonials": {
+    "title": "Ushuhuda wa Wateja",
+    "subtitle": "Sikia kile wateja wetu wanasema kuhusu kufanya kazi nasi."
+  },
+  "cta": {
+    "title": "Uko tayari kutatua masuala yako ya kisheria?",
+    "subtitle": "Panga mashauriano ya siri leo.",
+    "button": "Wasiliana Nasi Sasa"
+  },
+  "floating": {
+    "title": "Tunaweza kusaidiaje?",
+    "subtitle": "Chagua kitendo cha haraka hapa chini",
+    "meetAdvocates": "Kutana na Mawakili Wetu",
+    "exploreCapabilities": "Chunguza Uwezo",
+    "readInsights": "Soma Maarifa",
+    "contactUs": "Wasiliana Nasi",
+    "language": "Lugha",
+    "footer": "Andika “hello” au bofya amri"
+  },
+  "languageSwitcher": {
+    "en": "EN",
+    "sw": "SW",
+    "fr": "FR"
+  },
+  "search": {
+    "placeholder": "Tafuta..."
+  },
+  "filters": {
+    "all": "Zote"
+  },
+  "privacy": {
+    "title": "Sera ya Faragha",
+    "lastUpdated": "Ilisasishwa mara ya mwisho: {{date}}",
+    "sections": {
+      "introduction": {
+        "title": "Utangulizi",
+        "content": "Kiamba Mbithi & Company Advocates inajitolea kulinda faragha na usiri wa wateja wetu na wageni wa tovuti. Sera hii ya faragha inaeleza jinsi tunavyokusanya, kutumia na kulinda taarifa zako za kibinafsi."
+      },
+      "infoWeCollect": {
+        "title": "Taarifa Tunazokusanya",
+        "intro": "Tunaweza kukusanya aina zifuatazo za taarifa:",
+        "items": [
+          "Taarifa za mawasiliano (jina, barua pepe, nambari ya simu)",
+          "Taarifa za kitaaluma (kampuni, wadhifa, eneo la maslahi)",
+          "Rekodi za mawasiliano na barua",
+          "Data ya matumizi ya tovuti na takwimu"
+        ]
+      },
+      "howWeUse": {
+        "title": "Jinsi Tunavyotumia Taarifa Zako",
+        "intro": "Tunatumia taarifa zako kwa:",
+        "items": [
+          "Kutoa huduma za kisheria na kujibu maswali",
+          "Kuwasiliana kuhusu huduma zetu na masasisho",
+          "Kuboresha tovuti na huduma zetu",
+          "Kutii mahitaji ya kisheria na kanuni"
+        ]
+      },
+      "dataProtection": {
+        "title": "Ulinzi wa Data",
+        "content": "Tunatekeleza hatua stahiki za kiufundi na kiutawala kulinda taarifa zako za kibinafsi dhidi ya ufikiaji usioidhinishwa, mabadiliko, ufichuzi au uharibifu. Mawasiliano na taarifa zote za wateja zinashughulikiwa kwa usiri mkali kwa mujibu wa maadili ya kitaaluma ya kisheria."
+      },
+      "attorneyPrivilege": {
+        "title": "Usiri wa Wakili na Mteja",
+        "content": "Mawasiliano na kampuni yetu yanaweza kulindwa na usiri wa wakili na mteja. Tunadumisha usiri mkali wa taarifa na mawasiliano yote ya wateja kwa mujibu wa wajibu wetu wa kitaaluma na sheria ya Kenya."
+      },
+      "infoSharing": {
+        "title": "Kushiriki Taarifa",
+        "intro": "Hatuuza, kubadilishana au kukodisha taarifa zako za kibinafsi kwa watu wengine. Tunaweza kushiriki taarifa tu wakati:",
+        "items": [
+          "Inahitajika na sheria au mchakato wa kisheria",
+          "Inahitajika kutoa huduma za kisheria ulizoomba",
+          "Umetoa idhini ya wazi"
+        ]
+      },
+      "cookies": {
+        "title": "Vidakuzi na Ufuatiliaji",
+        "content": "Tovuti yetu inaweza kutumia vidakuzi na teknolojia sawia ili kuboresha uzoefu wa mtumiaji na kuchambua trafiki ya tovuti. Unaweza kudhibiti mipangilio ya vidakuzi kupitia mapendeleo ya kivinjari chako."
+      },
+      "yourRights": {
+        "title": "Haki Zako",
+        "intro": "Una haki ya:",
+        "items": [
+          "Kupata taarifa zako za kibinafsi",
+          "Kusahihisha taarifa zisizo sahihi",
+          "Kuomba kufutwa kwa taarifa zako",
+          "Kujiondoa kwenye mawasiliano ya masoko"
+        ]
+      },
+      "thirdParty": {
+        "title": "Viungo vya Watu Wengine",
+        "content": "Tovuti yetu inaweza kuwa na viungo vya tovuti za watu wengine. Hatujibikii sera za faragha za tovuti hizi za nje na tunakuhimiza ukague sera zao za faragha."
+      },
+      "changes": {
+        "title": "Mabadiliko ya Sera Hii",
+        "content": "Tunaweza kusasisha Sera hii ya Faragha mara kwa mara. Mabadiliko yoyote yatachapishwa kwenye ukurasa huu na tarehe ya marekebisho iliyosasishwa."
+      },
+      "contact": {
+        "title": "Wasiliana Nasi",
+        "content": "Ikiwa una maswali kuhusu Sera hii ya Faragha au taratibu zetu za data, tafadhali wasiliana nasi:"
+      }
+    },
+    "contactDetails": {
+      "email": "consult@adansonia.info",
+      "phone": "0748 364 601",
+      "address": "IHIT Centre, Dennis Pritt Road, Nairobi"
+    }
+  }
+}
