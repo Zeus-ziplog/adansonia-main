@@ -76,7 +76,7 @@ export default function Footer() {
                 <div className="text-gray-300 dark:text-gray-400 text-sm leading-relaxed">
                   <p className="font-bold text-white dark:text-gray-100">IHIT Centre</p>
                   <p>Dennis Pritt Road, Nairobi</p>
-                  <p>Office numer 6</p>
+                  <p>Office number 6</p>
                   <p className="mt-1 text-xs italic opacity-70">P.O. Box 47290-00100, Nairobi</p>
                 </div>
               </li>
