@@ -126,7 +126,7 @@ export default function Home() {
                 to="/contact"
                 className="group inline-flex items-center px-8 py-4 bg-jade text-white font-semibold rounded-full hover:bg-pistachio hover:text-deep-forest transition-all duration-300 text-lg shadow-xl hover:shadow-2xl dark:bg-dark-jade dark:hover:bg-pistachio/80"
               >
-                {t('hero.Consultation')}
+                {t('Consultation')}
                 <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" />
               </Link>
               <Link
